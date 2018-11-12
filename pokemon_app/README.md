@@ -1,4 +1,4 @@
-# profile_page
+# pokemon_app
 
 A new Flutter application.
 
